@@ -35,3 +35,23 @@ https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-read
 
 https://hackernoon.com/few-simple-rules-for-good-coding-my-15-years-experience-96cb29d4acd9
 
+https://www.hackerrank.com/domains/cpp
+
+https://www.linkedin.com/learning/paths/master-c-plus-plus
+
+https://developers.google.com/edu/c++/cpp-in-depth
+
+https://web.archive.org/web/20120102190219/http://www.accu.informika.ru/acornsig/public/articles/ood_intro.html
+
+https://www.learn-cpp.org/
+
+http://www.dietmar-kuehl.de/mirror/c++-faq/index.html
+
+https://www.learncpp.com/
+
+https://www.sanfoundry.com/cplusplus-programming-objective-questions-answers/
+
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/comments
+
+https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html
+
